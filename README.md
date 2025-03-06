@@ -1,3 +1,3 @@
 # Emotion Recognition in Text
-Emotion detection on tweets
+Predicting emotions in tweets using Natural Language Processing methods and different models  
 Done on CARER dataset
